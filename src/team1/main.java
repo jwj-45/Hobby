@@ -9,12 +9,14 @@ public class main {
 		Hobby juhyunHobby = new Juhyun();
 		Hobby junyeongHobby = new Junyeong();
 		Hobby rudgusee = new rudgusee();
+		Hobby gs = new Gyeomson();
 		
 		hb.print();
 		hb2.print();
 		juhyunHobby.print();
 		junyeongHobby.print();
 		rudgusee.print();
+		gs.print();
 
 	}
 }
