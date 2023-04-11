@@ -15,7 +15,7 @@ public class Hobby {
 	}
 	
 	public void print() {
-		System.out.printf("이름: %s | 취미: %s | 최애음식: %s | 최애컬러: %s", 
+		System.out.printf("이름: %s | 취미: %s | 최애음식: %s | 최애컬러: %s \n", 
 				this.name, this.hobby, this.favoriteFood, this.favoriteColor);
 	}
 }
