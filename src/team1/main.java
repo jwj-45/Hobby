@@ -8,10 +8,13 @@ public class main {
 		Hobby hb2 = new Junwon();
 		Hobby juhyunHobby = new Juhyun();
 		Hobby junyeongHobby = new Junyeong();
+		Hobby rudgusee = new rudgusee();
 		
 		hb.print();
 		hb2.print();
 		juhyunHobby.print();
 		junyeongHobby.print();
+		rudgusee.print();
+
 	}
 }
