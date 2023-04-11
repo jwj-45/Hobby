@@ -4,7 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 	
-		Hobby hb = new Junwon();
+		Hobby hb = new Seorim();
 		
 		hb.print();
 	}
