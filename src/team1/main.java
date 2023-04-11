@@ -10,6 +10,7 @@ public class main {
 		Hobby junyeongHobby = new Junyeong();
 		Hobby rudgusee = new rudgusee();
 		Hobby gs = new Gyeomson();
+		Hobby heesuhb = new heesu();
 		
 		hb.print();
 		hb2.print();
@@ -17,6 +18,8 @@ public class main {
 		junyeongHobby.print();
 		rudgusee.print();
 		gs.print();
+		heesuhb.print();
+
 
 	}
 }
